@@ -5,8 +5,8 @@ Development and notes designing my first quake map for level design
 #### _1. Immersion and Theme_
 The map as of the v2.0 version is using default .wad(s) from Quake Remastered, the texture I chose for this map is mainly metal, some wood, and LED light blocks to evoke the theme of a lab that is still in construction process.
 Add a (unlit!) screenshot of a section of the map that particularly evokes the theme.
-![Alt text]("C:\Users\dinha\OneDrive\Pictures\lighting.png")
-Add a sentence or two that refers to the screenshot explaining how the specific texture work is evoking the theme.
+![Screenshot](images/guidance_n_orientation.png)
+This screenshot is a !unlit version of one part of the map, it showcase 
 
 ### _2. Guidance and Orientation_
 Briefly explain how it was a goal of yours to create lighting that evoked your theme and enhanced player immersion.
